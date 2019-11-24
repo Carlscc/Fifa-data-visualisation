@@ -15,4 +15,4 @@ Imported Fifa 2019 dataset from Kaggle, using the Panda library to maniplulate t
 
 5. Import Seaborn (matplotlib) and Bokeh, create a scatterplot and interactive visualisation.
 
-[Bokeh Plot](file:///private/var/folders/m4/7_6697t558g6x_qtfjjkllc00000gn/T/tmpp_564x6v.html)
+Bokeh Plot: file:///private/var/folders/m4/7_6697t558g6x_qtfjjkllc00000gn/T/tmpp_564x6v.html
