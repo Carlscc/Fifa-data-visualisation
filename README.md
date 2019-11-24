@@ -1,6 +1,6 @@
 # Fifa-2019-data-visualisation
 
-Exercise to find Fifa 2019 players who are best in terms of skills but also have a lower salary, to check their affordability. 
+Find players who are best in terms of skills but also have a lower salary, to check who is undervalued and could be bought for a really good deal! 
 
 Utilised: Jupyter Notebook, Kaggle, Pandas, Seaborn (matplotlib) & Bokeh.
 
