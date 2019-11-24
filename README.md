@@ -3,7 +3,7 @@ Exercise to find Fifa 2019 players who are best in terms of skills but also have
 
 Utilised: Jupyter Notebook, Kaggle, Pandas, Seaborn (matplotlib) & Bokeh.
 
-Imported Fifa 2019 dataset from Kaggle, using the Panda library to maniplulate the data.
+Imported Fifa 2019 dataset from Kaggle, using the Pandas library to maniplulate the data.
 
 1. Import dataset 
 
